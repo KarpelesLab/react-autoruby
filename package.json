@@ -1,6 +1,6 @@
 {
   "name": "@karpeleslab/react-autoruby",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "AutoRuby component for React",
   "main": "index.js",
   "scripts": {

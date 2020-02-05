@@ -7,7 +7,7 @@ class AutoRuby extends React.Component {
   render() {
     // grab value of text=
     let str = this.props.text;
-    let delim = this.props.delimiter ?? "()";
+    let delim = this.props.delimiter ?? "[]";
     let res = [];
 
     if (delim.length === 1) {
